@@ -1,0 +1,4 @@
+/* App-level resets — bulk of styles live in index.css via Tailwind */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
