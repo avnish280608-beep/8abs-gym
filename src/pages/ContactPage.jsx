@@ -2,7 +2,7 @@ import { useState } from 'react'
 import PageHero from '../components/PageHero'
 import Location from '../components/Location'
 
-function ContactForm() {
+/*function ContactForm() {
   const [form, setForm] = useState({ name: '', phone: '', goal: '', message: '' })
   const [submitted, setSubmitted] = useState(false)
 
@@ -123,7 +123,7 @@ function ContactForm() {
       </p>
     </form>
   )
-}
+}*/
 
 export default function ContactPage() {
   return (
